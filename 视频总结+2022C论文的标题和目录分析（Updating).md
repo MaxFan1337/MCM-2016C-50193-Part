@@ -30,7 +30,7 @@
 >
 > 第七段：灵敏性分析＋鲁棒性分析，一些杂项（短）	
 
-![image-20230117151242027]([\2022C.assets\image-20230117151242027.png](https://raw.githubusercontent.com/MaxFan1337/FanSMCMnote/main/2022C.assets/image-20230117151242027.png))
+![image-20230117151242027](https://raw.githubusercontent.com/MaxFan1337/FanSMCMnote/main/2022C.assets/image-20230117151242027.png)
 
 最后一段的套话
 
